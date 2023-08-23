@@ -3,12 +3,11 @@ layout: default
 title: Student Blog
 ---
 
-<div class="tenor-gif-embed" data-postid="18832827" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/aesthetic-gif-18832827">Aesthetic GIF</a>from <a href="https://tenor.com/search/aesthetic-gifs">Aesthetic GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<!--- Added this GIF from Tenor
+Adjusted size to 75%-->
 
-
-
-
-
+<div class="tenor-gif-embed" data-postid="18832827" data-share-method="host" data-aspect-ratio="1.77778" data-width="75%"><a href="https://tenor.com/view/aesthetic-gif-18832827">Aesthetic GIF</a>from <a href="https://tenor.com/search/aesthetic-gifs">Aesthetic GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+&nbsp; <!-- Used this b/c the Gif was messing up spacing-->
 ## Kyle Liang's Blog
 I'm Kyle Liang, and this is my GitHub Blog :D I do USACO.
 
